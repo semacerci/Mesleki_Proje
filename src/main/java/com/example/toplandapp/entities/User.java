@@ -10,6 +10,7 @@ import javax.persistence.Table;
 @Table(name = "user")//bu tablonun adı
 @Data//bu clası getter ve setterlarını otomatik oluşturdu lombok eklentisi sayesinde
 public class User {
+
     @Id
     Long id;
 
