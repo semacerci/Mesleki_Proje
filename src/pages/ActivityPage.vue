@@ -1,4 +1,12 @@
-<template>Etkinlik Sayfası</template>
+<template>
+
+<div>
+  yeni şeyler eklendi
+</div>
+
+
+
+tkinlik Sayfası</template>
 
 <script>
 export default {
